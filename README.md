@@ -6,7 +6,7 @@ Tools that can be used to produce dynamic and static GraphQL documentation:
 * [GraphQL-docs](https://github.com/mhallin/graphql-docs) - Dynamically generated documentation explorer for GraphQL schemas.
 * [Graphdoc](https://github.com/2fd/graphdoc#readme) - Static page generator for documenting GraphQL Schema.
 
-# GraphQL-docs
+# GraphQL Documentation Examples
 Some nice GraphQL documentation examples:
 
 * [Apollo](https://www.apollographql.com/docs/react/react-apollo-migration.html) - Guide-oriented GraphQL docs.
