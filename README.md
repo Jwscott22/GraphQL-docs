@@ -11,3 +11,6 @@ Some GraphQL documentation examples.
 # GraphQL Documentation Tools
 Some GraphQL documentation tools:
 
+* [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+* [GraphQL-docs](https://github.com/mhallin/graphql-docs) - Dynamically generated documentation explorer for GraphQL schemas.
+* [Graph Doc](https://github.com/2fd/graphdoc#readme) - Static page generator for documenting GraphQL Schema.
