@@ -3,6 +3,7 @@
 Tools that can be used to produce dynamic and static GraphQL documentation:
 
 * [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL. Comes with in-built Documentation Explorer.
+* [GraphQL Playgroud](https://github.com/prismagraphql/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration). 
 * [GraphQL-docs](https://github.com/mhallin/graphql-docs) - Dynamically generated documentation explorer for GraphQL schemas.
 * [Graphdoc](https://github.com/2fd/graphdoc#readme) - Static page generator for documenting GraphQL Schema.
 
