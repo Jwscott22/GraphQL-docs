@@ -1,4 +1,4 @@
-This repo contains some example of public GraphQL API docs and some of the GraphQL documentation and testing tools available.
+This repo contains some example of public GraphQL API docs and some of the GraphQL documentation and testing tools available. Feel free to make a pull request if you can suggest some nice examples or tools that I've missed.
 
 # Public GraphQL API Examples
 Some public-facing GraphQL API documentation examples:
