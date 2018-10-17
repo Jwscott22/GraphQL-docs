@@ -1,5 +1,5 @@
 # Public GraphQL API Examples
-Some nice GraphQL documentation examples:
+Some public-facing GraphQL API documentation examples:
 
 * [Apollo](https://www.apollographql.com/docs/react/react-apollo-migration.html)
 * [Brandfolder](https://graphql.brandfolder.com/)
