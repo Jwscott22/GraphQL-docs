@@ -17,7 +17,7 @@ Some public-facing GraphQL API documentation examples:
 # GraphQL Documentation & Testing Tools
 Tools that can be used to produce dynamic and static GraphQL documentation:
 
-* [DocQL](https://docs.docql.io/) - The DocQL Beta was released on January 30th 2019. Looks promising but it's not free.
+* [DocQL](https://docql.io/) - The DocQL Beta was released on January 30th 2019. Looks promising but it's not free.
 * [GraphiQL](https://github.com/graphql/graphiql) - Pronounced 'Graphical'. The in-browser IDE for exploring GraphQL. Comes with in-built Documentation Explorer.
 * [GraphQL Playground](https://github.com/prismagraphql/graphql-playground) - GraphQL IDE for better development workflows (Subscriptions, interactive docs & collaboration). 
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Tool for visualising and exploring your GraphQL API as an interactive graph.
